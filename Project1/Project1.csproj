@@ -37,6 +37,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Example.cs" />
+    <Compile Include="Strings\ExtractNumbersFromString.cs" />
+    <Compile Include="Strings\StringPractice.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Arrays\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
